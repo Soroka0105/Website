@@ -3809,7 +3809,7 @@ label .chec1::before {
 @media (max-width: 768px) {
   body {
     position: fixed;
-    background: url(../img/fon_mob.jpg);
+    background: url(../img/fon1.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     -webkit-background-size: cover;

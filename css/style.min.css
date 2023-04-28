@@ -3810,7 +3810,7 @@ label .chec1::before {
   body {
     position: fixed;
     background: url(../img/fon1.jpg);
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-position: center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
